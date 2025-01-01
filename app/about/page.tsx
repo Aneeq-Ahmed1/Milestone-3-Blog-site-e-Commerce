@@ -8,7 +8,7 @@ const page = () => {
         <div className="flex justify-center mb-6">
           {/* Profile Image */}
           <Image
-            src="/profile-picture.jpg" // Replace with your image path
+            src="/a.jpg" // Replace with your image path
             alt="Student profile picture"
             width={120}
             height={120}
